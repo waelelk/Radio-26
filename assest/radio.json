@@ -1,0 +1,109 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "977",
+               "tagline": "Today's Hits",
+               "color": "0xffa11431",
+               "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+               "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC",
+               "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-10-26-at-3-29-32-pm-1603740583.png",
+               "lang": "English",
+               "category": "Mix",
+               "disliked": false,
+               "order": 1
+           },
+           {
+               "id": 2,
+               "name": "Malaysian Hitz",
+               "tagline": "Now Malaysia",
+               "color": "0xff221420",
+               "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+               "url": "https://astro1.rastream.com/hitz?type=mp3",
+               "image": "https://images.says.com/uploads/story_source/source_image/265794/31f8.jpg",
+               "lang": "Mix",
+               "disliked": false,
+               "category": "Mix",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "b-stop",
+               "tagline": "Amazing Chillpop",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "https://stream.amazingradios.com/chillhop",
+               "image": "https://pbs.twimg.com/profile_images/547680591513014272/cItN3fRh.jpeg",
+               "lang": "English",
+               "disliked": false,
+               "category": "Chill",
+               "order": 3
+           },
+           {
+               "id": 4,
+               "name": "99.8",
+               "tagline": "Maroccan Hits",
+               "color": "0xff066c53",
+               "desc": "",
+               "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+               "image": "https://pbs.twimg.com/media/EJigaShWwAE8z-z.jpg",
+               "lang": "English",
+               "category": "Mix",
+               "disliked": false,
+               "order": 4
+           },
+           {
+               "id": 5,
+               "name": "NPR-News",
+               "tagline": "Fox News Talk",
+               "color": "0xff0d487d",
+               "desc": "",
+               "url": "https://npr-ice.streamguys1.com/live.mp3",
+               "image": "https://cdn.vox-cdn.com/thumbor/m4CttIMKtNq_aSob1oDHWCC9gXo=/0x0:4000x2667/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/63704392/npr.0.1467739991.0.jpg",
+               "lang": "English",
+               "category": "News",
+               "disliked": false,
+               "order": 5
+           },
+           {
+               "id": 6,
+               "name": "94",
+               "tagline": "Smooth Jazz Mix",
+               "color": "0xff27383e",
+               "desc": "",
+               "url": "https://hestia2.cdnstream.com/1078_128?cb=696226.mp3",
+               "image": "https://media.newyorker.com/photos/5e7a74584f53b7000832d453/master/pass/Richard-HankMobley.jpg",
+               "lang": "English",
+               "category": "Jazz",
+               "disliked": false,
+               "order": 6
+           },
+           {
+               "id": 7,
+               "name": "Korea Now",
+               "tagline": "MapoFM",
+               "color": "0xffa06a37",
+               "desc": "The brain responds to music the same way it responds to something that you eat.",
+               "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
+               "image": "https://pbs.twimg.com/media/D2qlwctX0AEBJ-F.jpg",
+               "lang": "Hindi",
+               "category": "Mix",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "Radio Masr",
+               "tagline": "Arabic Radio",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url":"https://streaming.radio.co/scc13a6b96/listen",
+               "image": "https://torontoguardian.com/wp-content/uploads/2017/11/unnamed-1-1.jpg",
+               "lang": "Hindi",
+               "category": "Mix",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+   
+}
